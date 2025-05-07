@@ -1,0 +1,3343 @@
+{
+"type": "FeatureCollection",
+"name": "999-poly-2",
+"features": [
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "stair",
+      "unit": "",
+      "room_label": "west",
+      "wing": "main",
+      "room_ID": "2-1"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.7997899129556,
+            26.25111744962898
+          ],
+          [
+            -81.79971263683723,
+            26.251118846185335
+          ],
+          [
+            -81.79971193855907,
+            26.251092971099553
+          ],
+          [
+            -81.7997895250233,
+            26.25109141937027
+          ],
+          [
+            -81.7997899129556,
+            26.25111744962898
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "lobby",
+      "unit": "",
+      "room_label": "elevators west",
+      "wing": "main",
+      "room_ID": "2-2"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79971193855907,
+            26.251092971099553
+          ],
+          [
+            -81.79967974017637,
+            26.251093940930318
+          ],
+          [
+            -81.79968010871202,
+            26.251107688281877
+          ],
+          [
+            -81.79966335003577,
+            26.251107998627734
+          ],
+          [
+            -81.79966319486283,
+            26.251103653785744
+          ],
+          [
+            -81.79964922929928,
+            26.251103653785737
+          ],
+          [
+            -81.79964550514902,
+            26.2510987658385
+          ],
+          [
+            -81.7996410051341,
+            26.251094886515293
+          ],
+          [
+            -81.7996360396004,
+            26.25109240374844
+          ],
+          [
+            -81.7996306085479,
+            26.251090852019157
+          ],
+          [
+            -81.79962455680369,
+            26.25109077443269
+          ],
+          [
+            -81.7996241688714,
+            26.251076653696227
+          ],
+          [
+            -81.79960709984928,
+            26.251076653696224
+          ],
+          [
+            -81.79960663433049,
+            26.25106036053875
+          ],
+          [
+            -81.79959166014288,
+            26.251060127779358
+          ],
+          [
+            -81.7995911946241,
+            26.251055627764437
+          ],
+          [
+            -81.79958871185725,
+            26.251050041539017
+          ],
+          [
+            -81.79958498770696,
+            26.251044920832385
+          ],
+          [
+            -81.79958064286498,
+            26.25104104150918
+          ],
+          [
+            -81.79957435836141,
+            26.25103844236264
+          ],
+          [
+            -81.79957405528928,
+            26.251027822715145
+          ],
+          [
+            -81.79959275362714,
+            26.25102774512868
+          ],
+          [
+            -81.79961600047145,
+            26.251004954104896
+          ],
+          [
+            -81.79961921061143,
+            26.2510079411837
+          ],
+          [
+            -81.79964729691139,
+            26.25098146480281
+          ],
+          [
+            -81.79964955904187,
+            26.250983419012066
+          ],
+          [
+            -81.79970961096517,
+            26.251036488153595
+          ],
+          [
+            -81.79971317994251,
+            26.251032764003313
+          ],
+          [
+            -81.79973614553593,
+            26.251053557175727
+          ],
+          [
+            -81.79971178338614,
+            26.251076522769136
+          ],
+          [
+            -81.79971193855907,
+            26.251092971099553
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "elevator",
+      "unit": "",
+      "room_label": "west",
+      "wing": "main",
+      "room_ID": "2-3"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79968396621403,
+            26.251066402584502
+          ],
+          [
+            -81.79965882819965,
+            26.25109029921546
+          ],
+          [
+            -81.79963648329799,
+            26.251070437080635
+          ],
+          [
+            -81.79966193165822,
+            26.251046230103825
+          ],
+          [
+            -81.79968396621403,
+            26.251066402584502
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "elevator",
+      "unit": "",
+      "room_label": "west",
+      "wing": "main",
+      "room_ID": "2-4"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79963865571898,
+            26.251026057623143
+          ],
+          [
+            -81.79961382805045,
+            26.251050885291672
+          ],
+          [
+            -81.79959117280292,
+            26.251029471427568
+          ],
+          [
+            -81.79961600047145,
+            26.251004954104896
+          ],
+          [
+            -81.79963865571898,
+            26.251026057623143
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "restroom",
+      "unit": "",
+      "room_label": "men west",
+      "wing": "main",
+      "room_ID": "2-5"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79968036086811,
+            26.251119234117656
+          ],
+          [
+            -81.79960345328547,
+            26.251120722807848
+          ],
+          [
+            -81.79960304595652,
+            26.251101694727502
+          ],
+          [
+            -81.79960779812744,
+            26.251101714124143
+          ],
+          [
+            -81.79960709984928,
+            26.251076653696224
+          ],
+          [
+            -81.7996241688714,
+            26.251076653696227
+          ],
+          [
+            -81.79962455680369,
+            26.25109077443269
+          ],
+          [
+            -81.7996306085479,
+            26.251090852019157
+          ],
+          [
+            -81.7996360396004,
+            26.25109240374844
+          ],
+          [
+            -81.7996410051341,
+            26.251094886515293
+          ],
+          [
+            -81.79964550514902,
+            26.2510987658385
+          ],
+          [
+            -81.79964922929928,
+            26.251103653785737
+          ],
+          [
+            -81.79966319486283,
+            26.251103653785744
+          ],
+          [
+            -81.79966335003577,
+            26.251107998627734
+          ],
+          [
+            -81.79968010871202,
+            26.251107688281877
+          ],
+          [
+            -81.79968036086811,
+            26.251119234117656
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "restroom",
+      "unit": "",
+      "room_label": "women west",
+      "wing": "main",
+      "room_ID": "2-6"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79960345328547,
+            26.251120722807848
+          ],
+          [
+            -81.79957431956815,
+            26.251121110740176
+          ],
+          [
+            -81.79957338853059,
+            26.25107067953848
+          ],
+          [
+            -81.79955845313624,
+            26.25107083471141
+          ],
+          [
+            -81.79955798761746,
+            26.25103886908818
+          ],
+          [
+            -81.79957435836141,
+            26.25103844236264
+          ],
+          [
+            -81.79958064286498,
+            26.25104104150918
+          ],
+          [
+            -81.79958498770696,
+            26.251044920832385
+          ],
+          [
+            -81.79958871185725,
+            26.251050041539017
+          ],
+          [
+            -81.7995911946241,
+            26.251055627764437
+          ],
+          [
+            -81.79959166014288,
+            26.251060127779358
+          ],
+          [
+            -81.79960663433049,
+            26.25106036053875
+          ],
+          [
+            -81.79960779812744,
+            26.251101714124143
+          ],
+          [
+            -81.79960304595652,
+            26.251101694727502
+          ],
+          [
+            -81.79960345328547,
+            26.251120722807848
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "stair",
+      "unit": "",
+      "room_label": "east",
+      "wing": "main",
+      "room_ID": "2-7"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79887726337692,
+            26.25113331606092
+          ],
+          [
+            -81.79887679785813,
+            26.25110693666308
+          ],
+          [
+            -81.79895345328478,
+            26.25110631597137
+          ],
+          [
+            -81.79895391880359,
+            26.251132074677482
+          ],
+          [
+            -81.79887726337692,
+            26.25113331606092
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "electrical",
+      "unit": "",
+      "room_label": "east",
+      "wing": "main",
+      "room_ID": "2-8"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79898371200585,
+            26.251106626317217
+          ],
+          [
+            -81.79901657714777,
+            26.251105855301436
+          ],
+          [
+            -81.79901712025301,
+            26.25113114848875
+          ],
+          [
+            -81.7989840223517,
+            26.251131764331628
+          ],
+          [
+            -81.79898371200585,
+            26.251106626317217
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "elevator",
+      "unit": "",
+      "room_label": "east",
+      "wing": "main",
+      "room_ID": "2-9"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79898371200585,
+            26.251106626317217
+          ],
+          [
+            -81.79898337014112,
+            26.251081182805834
+          ],
+          [
+            -81.79901905991463,
+            26.25108048452766
+          ],
+          [
+            -81.79901929267402,
+            26.25110577771497
+          ],
+          [
+            -81.79898371200585,
+            26.251106626317217
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "elevator",
+      "unit": "",
+      "room_label": "east",
+      "wing": "main",
+      "room_ID": "2-10"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79898337014112,
+            26.251081182805834
+          ],
+          [
+            -81.79898267186294,
+            26.251054958580948
+          ],
+          [
+            -81.79901820646353,
+            26.25105464823509
+          ],
+          [
+            -81.79901905991463,
+            26.25108048452766
+          ],
+          [
+            -81.79898337014112,
+            26.251081182805834
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "lobby",
+      "unit": "",
+      "room_label": "elevators east",
+      "wing": "main",
+      "room_ID": "2-11"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79898371200585,
+            26.251106626317217
+          ],
+          [
+            -81.7989534532848,
+            26.251107091836005
+          ],
+          [
+            -81.79895280107422,
+            26.251055346513265
+          ],
+          [
+            -81.79898267186294,
+            26.251054958580948
+          ],
+          [
+            -81.79898371200585,
+            26.251106626317217
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "closet",
+      "unit": "",
+      "room_label": "janitor",
+      "wing": "main",
+      "room_ID": "2-12"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79901820646353,
+            26.25105464823509
+          ],
+          [
+            -81.79898453393808,
+            26.25105488099448
+          ],
+          [
+            -81.79898414600574,
+            26.251037346453586
+          ],
+          [
+            -81.79901781853118,
+            26.25103672576187
+          ],
+          [
+            -81.79901820646353,
+            26.25105464823509
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "balcony",
+      "unit": "",
+      "room_label": "stair east",
+      "wing": "main",
+      "room_ID": "2-13"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79895345328478,
+            26.25110631597137
+          ],
+          [
+            -81.79893251221385,
+            26.251106359613445
+          ],
+          [
+            -81.79893227945446,
+            26.25108820438083
+          ],
+          [
+            -81.79895315021332,
+            26.251087661275584
+          ],
+          [
+            -81.79895345328478,
+            26.25110631597137
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "restroom",
+      "unit": "",
+      "room_label": "men east",
+      "wing": "main",
+      "room_ID": "2-14"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79901816767025,
+            26.251056238757606
+          ],
+          [
+            -81.79904175395535,
+            26.251055773238818
+          ],
+          [
+            -81.79904249102677,
+            26.25111124756069
+          ],
+          [
+            -81.79901940905367,
+            26.251111635493007
+          ],
+          [
+            -81.79901816767025,
+            26.251056238757606
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "restroom",
+      "unit": "",
+      "room_label": "women east",
+      "wing": "main",
+      "room_ID": "2-15"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79904175395535,
+            26.251055773238818
+          ],
+          [
+            -81.79906669800359,
+            26.25105554047943
+          ],
+          [
+            -81.79906762904116,
+            26.251110937214833
+          ],
+          [
+            -81.79904249102677,
+            26.25111124756069
+          ],
+          [
+            -81.79904175395535,
+            26.251055773238818
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "unit",
+      "unit": "200",
+      "room_label": "200",
+      "wing": "main",
+      "room_ID": "2-16"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79957431956815,
+            26.251121110740176
+          ],
+          [
+            -81.79901712025301,
+            26.25113114848875
+          ],
+          [
+            -81.79901657714777,
+            26.251105855301436
+          ],
+          [
+            -81.79901929267402,
+            26.25110577771497
+          ],
+          [
+            -81.79901940905367,
+            26.251111635493007
+          ],
+          [
+            -81.79906762904116,
+            26.251110937214833
+          ],
+          [
+            -81.79906669800359,
+            26.25105554047943
+          ],
+          [
+            -81.79901816767025,
+            26.251056238757606
+          ],
+          [
+            -81.79901781853118,
+            26.25103672576187
+          ],
+          [
+            -81.79898414600574,
+            26.251037346453586
+          ],
+          [
+            -81.79898453393808,
+            26.25105488099448
+          ],
+          [
+            -81.79898267186294,
+            26.251054958580948
+          ],
+          [
+            -81.79895280107422,
+            26.251055346513265
+          ],
+          [
+            -81.79895252224722,
+            26.25104083299557
+          ],
+          [
+            -81.79886003918186,
+            26.251042695070712
+          ],
+          [
+            -81.79885724606916,
+            26.251026712259087
+          ],
+          [
+            -81.79885786676088,
+            26.251012901868457
+          ],
+          [
+            -81.79886050470067,
+            26.25100203976346
+          ],
+          [
+            -81.79886438402389,
+            26.25099210869604
+          ],
+          [
+            -81.79886950473055,
+            26.250982022455688
+          ],
+          [
+            -81.79887493578303,
+            26.250974418982192
+          ],
+          [
+            -81.79888160821896,
+            26.250966815508697
+          ],
+          [
+            -81.79889060824881,
+            26.25095952238106
+          ],
+          [
+            -81.79890131518087,
+            26.250953005118067
+          ],
+          [
+            -81.7989123324588,
+            26.25094757406557
+          ],
+          [
+            -81.79892288421793,
+            26.250944160261145
+          ],
+          [
+            -81.79893343597706,
+            26.25094167749429
+          ],
+          [
+            -81.79895128086383,
+            26.25094059128379
+          ],
+          [
+            -81.79895221190141,
+            26.250988384545764
+          ],
+          [
+            -81.79957305878814,
+            26.25097690174906
+          ],
+          [
+            -81.79957212775057,
+            26.25093702230645
+          ],
+          [
+            -81.79958097260749,
+            26.250937177479376
+          ],
+          [
+            -81.79958128295334,
+            26.250961074110354
+          ],
+          [
+            -81.79962504171918,
+            26.25096029824573
+          ],
+          [
+            -81.79962830035068,
+            26.250956574095444
+          ],
+          [
+            -81.79965343836508,
+            26.250979384515926
+          ],
+          [
+            -81.79964955904187,
+            26.250983419012066
+          ],
+          [
+            -81.79964729691139,
+            26.25098146480281
+          ],
+          [
+            -81.79961921061143,
+            26.2510079411837
+          ],
+          [
+            -81.79961600047145,
+            26.251004954104896
+          ],
+          [
+            -81.79959275362714,
+            26.25102774512868
+          ],
+          [
+            -81.79957405528928,
+            26.251027822715145
+          ],
+          [
+            -81.79957435836141,
+            26.25103844236264
+          ],
+          [
+            -81.79955798761746,
+            26.25103886908818
+          ],
+          [
+            -81.79955845313624,
+            26.25107083471141
+          ],
+          [
+            -81.79957338853059,
+            26.25107067953848
+          ],
+          [
+            -81.79957431956815,
+            26.251121110740176
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "220",
+      "wing": "main",
+      "room_ID": "2-17"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79889339508588,
+            26.250957890433227
+          ],
+          [
+            -81.79890131518087,
+            26.250953005118067
+          ],
+          [
+            -81.7989123324588,
+            26.25094757406557
+          ],
+          [
+            -81.79892288421793,
+            26.250944160261145
+          ],
+          [
+            -81.79893343597706,
+            26.25094167749429
+          ],
+          [
+            -81.79895128086383,
+            26.25094059128379
+          ],
+          [
+            -81.79895221190141,
+            26.250988384545764
+          ],
+          [
+            -81.79894698208935,
+            26.250988544567623
+          ],
+          [
+            -81.79894706353403,
+            26.250994138631015
+          ],
+          [
+            -81.79892612404115,
+            26.25099454920931
+          ],
+          [
+            -81.79889339508588,
+            26.250957890433227
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "201",
+      "wing": "main",
+      "room_ID": "2-18"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79955355306603,
+            26.251013217063225
+          ],
+          [
+            -81.79952220813458,
+            26.25101372137524
+          ],
+          [
+            -81.79952143226993,
+            26.25097783763557
+          ],
+          [
+            -81.79955277720143,
+            26.25097729453032
+          ],
+          [
+            -81.79955355306603,
+            26.251013217063225
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "202",
+      "wing": "main",
+      "room_ID": "2-19"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79952220813458,
+            26.25101372137524
+          ],
+          [
+            -81.79949222096616,
+            26.251014225687257
+          ],
+          [
+            -81.79949175544738,
+            26.25097834194759
+          ],
+          [
+            -81.79952143226993,
+            26.25097783763557
+          ],
+          [
+            -81.79952220813458,
+            26.25101372137524
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "203",
+      "wing": "main",
+      "room_ID": "2-20"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79949222096616,
+            26.251014225687257
+          ],
+          [
+            -81.79946204952988,
+            26.2510147687925
+          ],
+          [
+            -81.79946131245846,
+            26.25097896263929
+          ],
+          [
+            -81.79949175544738,
+            26.25097834194759
+          ],
+          [
+            -81.79949222096616,
+            26.251014225687257
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "204",
+      "wing": "main",
+      "room_ID": "2-21"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79946204952988,
+            26.2510147687925
+          ],
+          [
+            -81.79942511837297,
+            26.251015311897742
+          ],
+          [
+            -81.79942442009474,
+            26.25097954453778
+          ],
+          [
+            -81.79946131245846,
+            26.25097896263929
+          ],
+          [
+            -81.79946204952988,
+            26.2510147687925
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "205",
+      "wing": "main",
+      "room_ID": "2-22"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79942511837297,
+            26.251015311897742
+          ],
+          [
+            -81.79937740269747,
+            26.25101616534885
+          ],
+          [
+            -81.79937662683284,
+            26.250980475575343
+          ],
+          [
+            -81.79942442009474,
+            26.25097954453778
+          ],
+          [
+            -81.79942511837297,
+            26.251015311897742
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "206",
+      "wing": "main",
+      "room_ID": "2-23"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79937740269747,
+            26.25101616534885
+          ],
+          [
+            -81.79934023878117,
+            26.251016863627022
+          ],
+          [
+            -81.79933938533006,
+            26.250981173853514
+          ],
+          [
+            -81.79937662683284,
+            26.250980475575343
+          ],
+          [
+            -81.79937740269747,
+            26.25101616534885
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "207",
+      "wing": "main",
+      "room_ID": "2-24"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79934023878117,
+            26.251016863627022
+          ],
+          [
+            -81.79930501452642,
+            26.251017406732274
+          ],
+          [
+            -81.79930447142118,
+            26.250981872131696
+          ],
+          [
+            -81.79933938533006,
+            26.250981173853514
+          ],
+          [
+            -81.79934023878117,
+            26.251016863627022
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "208",
+      "wing": "main",
+      "room_ID": "2-25"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79930501452642,
+            26.251017406732274
+          ],
+          [
+            -81.79926777302363,
+            26.25101810501045
+          ],
+          [
+            -81.79926684198605,
+            26.250982492823407
+          ],
+          [
+            -81.79930447142118,
+            26.250981872131696
+          ],
+          [
+            -81.79930501452642,
+            26.251017406732274
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "209",
+      "wing": "main",
+      "room_ID": "2-26"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79926777302363,
+            26.25101810501045
+          ],
+          [
+            -81.79923371256585,
+            26.2510186481157
+          ],
+          [
+            -81.79923278152827,
+            26.250983113515122
+          ],
+          [
+            -81.79926684198605,
+            26.250982492823407
+          ],
+          [
+            -81.79926777302363,
+            26.25101810501045
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "210",
+      "wing": "main",
+      "room_ID": "2-27"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79923371256585,
+            26.2510186481157
+          ],
+          [
+            -81.79919569519842,
+            26.25101926880741
+          ],
+          [
+            -81.79919476416084,
+            26.250983734206834
+          ],
+          [
+            -81.79923278152827,
+            26.250983113515122
+          ],
+          [
+            -81.79923371256585,
+            26.2510186481157
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "211",
+      "wing": "main",
+      "room_ID": "2-28"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79919569519842,
+            26.25101926880741
+          ],
+          [
+            -81.79915612610169,
+            26.25101988949912
+          ],
+          [
+            -81.79915535023706,
+            26.25098451007147
+          ],
+          [
+            -81.79919476416084,
+            26.250983734206834
+          ],
+          [
+            -81.79919569519842,
+            26.25101926880741
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "212",
+      "wing": "main",
+      "room_ID": "2-29"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79915612610169,
+            26.25101988949912
+          ],
+          [
+            -81.79912369495966,
+            26.251020510190834
+          ],
+          [
+            -81.79912307426795,
+            26.250985130763183
+          ],
+          [
+            -81.79915535023706,
+            26.25098451007147
+          ],
+          [
+            -81.79915612610169,
+            26.25101988949912
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "213",
+      "wing": "main",
+      "room_ID": "2-30"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79912369495966,
+            26.251020510190834
+          ],
+          [
+            -81.79908645345688,
+            26.251021208469016
+          ],
+          [
+            -81.79908583276517,
+            26.250985829041355
+          ],
+          [
+            -81.79912307426795,
+            26.250985130763183
+          ],
+          [
+            -81.79912369495966,
+            26.251020510190834
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "214",
+      "wing": "main",
+      "room_ID": "2-31"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79908645345688,
+            26.251021208469016
+          ],
+          [
+            -81.79905122920215,
+            26.251021751574246
+          ],
+          [
+            -81.79905037575105,
+            26.250986527319526
+          ],
+          [
+            -81.79908583276517,
+            26.250985829041355
+          ],
+          [
+            -81.79908645345688,
+            26.251021208469016
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "215",
+      "wing": "main",
+      "room_ID": "2-32"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79905122920215,
+            26.251021751574246
+          ],
+          [
+            -81.79901391011292,
+            26.251022372265957
+          ],
+          [
+            -81.79901328942118,
+            26.25098726439093
+          ],
+          [
+            -81.79905037575105,
+            26.250986527319526
+          ],
+          [
+            -81.79905122920215,
+            26.251021751574246
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "216",
+      "wing": "main",
+      "room_ID": "2-33"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79901391011292,
+            26.251022372265957
+          ],
+          [
+            -81.79898070310622,
+            26.251022954164434
+          ],
+          [
+            -81.7989799272416,
+            26.25098780749616
+          ],
+          [
+            -81.79901328942118,
+            26.25098726439093
+          ],
+          [
+            -81.79901391011292,
+            26.251022372265957
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "217",
+      "wing": "main",
+      "room_ID": "2-34"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79898070310622,
+            26.251022954164434
+          ],
+          [
+            -81.79894775795402,
+            26.25102361364942
+          ],
+          [
+            -81.79894698208935,
+            26.250988544567623
+          ],
+          [
+            -81.7989799272416,
+            26.25098780749616
+          ],
+          [
+            -81.79898070310622,
+            26.251022954164434
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "243",
+      "wing": "main",
+      "room_ID": "2-35"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79949572205517,
+            26.251027842111654
+          ],
+          [
+            -81.79952359499244,
+            26.25102737659287
+          ],
+          [
+            -81.79954142048258,
+            26.251038549043706
+          ],
+          [
+            -81.79954196358781,
+            26.251077691414864
+          ],
+          [
+            -81.79949642033337,
+            26.251078389693042
+          ],
+          [
+            -81.79949572205517,
+            26.251027842111654
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "242",
+      "wing": "main",
+      "room_ID": "2-36"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79949572205517,
+            26.251027842111654
+          ],
+          [
+            -81.79949626516041,
+            26.251071484497736
+          ],
+          [
+            -81.79946336849962,
+            26.251072105189444
+          ],
+          [
+            -81.79946259263498,
+            26.25102842401013
+          ],
+          [
+            -81.79949572205517,
+            26.251027842111654
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "241",
+      "wing": "main",
+      "room_ID": "2-37"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79946336849962,
+            26.251072105189444
+          ],
+          [
+            -81.79943066580496,
+            26.25107260950146
+          ],
+          [
+            -81.79942996752679,
+            26.251028928322146
+          ],
+          [
+            -81.79946259263498,
+            26.25102842401013
+          ],
+          [
+            -81.79946336849962,
+            26.251072105189444
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "240",
+      "wing": "main",
+      "room_ID": "2-38"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79927942069136,
+            26.25107752654364
+          ],
+          [
+            -81.79923599166803,
+            26.251078399391357
+          ],
+          [
+            -81.79923520610504,
+            26.25103232757909
+          ],
+          [
+            -81.7992782181012,
+            26.251031595356864
+          ],
+          [
+            -81.79927942069136,
+            26.25107752654364
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "239",
+      "wing": "main",
+      "room_ID": "2-39"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79923599166803,
+            26.251078399391357
+          ],
+          [
+            -81.79919687839177,
+            26.2510791510102
+          ],
+          [
+            -81.79919598614744,
+            26.251032948270797
+          ],
+          [
+            -81.79923520610504,
+            26.25103232757909
+          ],
+          [
+            -81.79923599166803,
+            26.251078399391357
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "238",
+      "wing": "main",
+      "room_ID": "2-40"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79919687839177,
+            26.2510791510102
+          ],
+          [
+            -81.79915758084768,
+            26.25107988808161
+          ],
+          [
+            -81.79915664981009,
+            26.251033568962516
+          ],
+          [
+            -81.79919598614744,
+            26.251032948270797
+          ],
+          [
+            -81.79919687839177,
+            26.2510791510102
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "237",
+      "wing": "main",
+      "room_ID": "2-41"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79915758084768,
+            26.25107988808161
+          ],
+          [
+            -81.79910528757081,
+            26.251080974292098
+          ],
+          [
+            -81.79910412377386,
+            26.25103457758654
+          ],
+          [
+            -81.79915664981009,
+            26.251033568962516
+          ],
+          [
+            -81.79915758084768,
+            26.25107988808161
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "221",
+      "wing": "main",
+      "room_ID": "2-42"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79955707355148,
+            26.251121416236533
+          ],
+          [
+            -81.79952580620643,
+            26.25112193994516
+          ],
+          [
+            -81.79952511762662,
+            26.251087806750093
+          ],
+          [
+            -81.79955649165304,
+            26.251087190907537
+          ],
+          [
+            -81.79955707355148,
+            26.251121416236533
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "222",
+      "wing": "main",
+      "room_ID": "2-43"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79952580620643,
+            26.25112193994516
+          ],
+          [
+            -81.79949447097324,
+            26.25112248789957
+          ],
+          [
+            -81.79949377269506,
+            26.251088349855344
+          ],
+          [
+            -81.79952511762662,
+            26.251087806750093
+          ],
+          [
+            -81.79952580620643,
+            26.25112193994516
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "223",
+      "wing": "main",
+      "room_ID": "2-44"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79949447097324,
+            26.25112248789957
+          ],
+          [
+            -81.79946312604174,
+            26.25112303100482
+          ],
+          [
+            -81.79946235017711,
+            26.251089048133526
+          ],
+          [
+            -81.79949377269506,
+            26.251088349855344
+          ],
+          [
+            -81.79949447097324,
+            26.25112248789957
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "224",
+      "wing": "main",
+      "room_ID": "2-45"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79946312604174,
+            26.25112303100482
+          ],
+          [
+            -81.79943139317787,
+            26.25112357411006
+          ],
+          [
+            -81.79943061731322,
+            26.25108966882523
+          ],
+          [
+            -81.79946235017711,
+            26.251089048133526
+          ],
+          [
+            -81.79946312604174,
+            26.25112303100482
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "225",
+      "wing": "main",
+      "room_ID": "2-46"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79943139317787,
+            26.25112357411006
+          ],
+          [
+            -81.79938996200603,
+            26.251124349974692
+          ],
+          [
+            -81.7993891861414,
+            26.251090522276325
+          ],
+          [
+            -81.79943061731322,
+            26.25108966882523
+          ],
+          [
+            -81.79943139317787,
+            26.25112357411006
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "226",
+      "wing": "main",
+      "room_ID": "2-47"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79938996200603,
+            26.251124349974692
+          ],
+          [
+            -81.7993583843151,
+            26.25112489307994
+          ],
+          [
+            -81.79935760845046,
+            26.251091065381573
+          ],
+          [
+            -81.7993891861414,
+            26.251090522276325
+          ],
+          [
+            -81.79938996200603,
+            26.251124349974692
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "227",
+      "wing": "main",
+      "room_ID": "2-48"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.7993583843151,
+            26.25112489307994
+          ],
+          [
+            -81.7993278928347,
+            26.25112551377165
+          ],
+          [
+            -81.7993274273159,
+            26.251091686073284
+          ],
+          [
+            -81.79935760845046,
+            26.251091065381573
+          ],
+          [
+            -81.7993583843151,
+            26.25112489307994
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "228",
+      "wing": "main",
+      "room_ID": "2-49"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.7993278928347,
+            26.25112551377165
+          ],
+          [
+            -81.7992953841062,
+            26.251126056876895
+          ],
+          [
+            -81.7992947634145,
+            26.251092306764992
+          ],
+          [
+            -81.7993274273159,
+            26.251091686073284
+          ],
+          [
+            -81.7993278928347,
+            26.25112551377165
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "229",
+      "wing": "main",
+      "room_ID": "2-50"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.7992953841062,
+            26.251126056876895
+          ],
+          [
+            -81.79926434952056,
+            26.25112659998215
+          ],
+          [
+            -81.79926365124237,
+            26.251092849870247
+          ],
+          [
+            -81.7992947634145,
+            26.251092306764992
+          ],
+          [
+            -81.7992953841062,
+            26.251126056876895
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "230",
+      "wing": "main",
+      "room_ID": "2-51"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79926434952056,
+            26.25112659998215
+          ],
+          [
+            -81.79923261665672,
+            26.25112722067386
+          ],
+          [
+            -81.79923191837854,
+            26.25109347056196
+          ],
+          [
+            -81.79926365124237,
+            26.251092849870247
+          ],
+          [
+            -81.79926434952056,
+            26.25112659998215
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "231",
+      "wing": "main",
+      "room_ID": "2-52"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79923261665672,
+            26.25112722067386
+          ],
+          [
+            -81.79920158207105,
+            26.251127763779106
+          ],
+          [
+            -81.79920065103349,
+            26.251094013667203
+          ],
+          [
+            -81.79923191837854,
+            26.25109347056196
+          ],
+          [
+            -81.79923261665672,
+            26.25112722067386
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "232",
+      "wing": "main",
+      "room_ID": "2-53"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79920158207105,
+            26.251127763779106
+          ],
+          [
+            -81.79916853023731,
+            26.25112838447082
+          ],
+          [
+            -81.79916806471853,
+            26.251094634358918
+          ],
+          [
+            -81.79920065103349,
+            26.251094013667203
+          ],
+          [
+            -81.79920158207105,
+            26.251127763779106
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "232",
+      "wing": "main",
+      "room_ID": "2-54"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79916853023731,
+            26.25112838447082
+          ],
+          [
+            -81.79913734047871,
+            26.251128849989602
+          ],
+          [
+            -81.799136719787,
+            26.251095177464165
+          ],
+          [
+            -81.79916806471853,
+            26.251094634358918
+          ],
+          [
+            -81.79916853023731,
+            26.25112838447082
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "234",
+      "wing": "main",
+      "room_ID": "2-55"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79913734047871,
+            26.251128849989602
+          ],
+          [
+            -81.79910615072012,
+            26.251129470681317
+          ],
+          [
+            -81.79910537485549,
+            26.251095798155877
+          ],
+          [
+            -81.799136719787,
+            26.251095177464165
+          ],
+          [
+            -81.79913734047871,
+            26.251128849989602
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "235",
+      "wing": "main",
+      "room_ID": "2-56"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79910615072012,
+            26.251129470681317
+          ],
+          [
+            -81.79901712025301,
+            26.25113114848875
+          ],
+          [
+            -81.79901657714777,
+            26.251105855301436
+          ],
+          [
+            -81.79901929267402,
+            26.25110577771497
+          ],
+          [
+            -81.79901940905367,
+            26.251111635493007
+          ],
+          [
+            -81.79906762904116,
+            26.251110937214833
+          ],
+          [
+            -81.79906735748806,
+            26.251097039539307
+          ],
+          [
+            -81.79910537485549,
+            26.251095798155877
+          ],
+          [
+            -81.79910615072012,
+            26.251129470681317
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "219",
+      "wing": "main",
+      "room_ID": "2-57"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79892612404115,
+            26.25099454920931
+          ],
+          [
+            -81.79891190043605,
+            26.251012907924355
+          ],
+          [
+            -81.79886483056758,
+            26.25099126458296
+          ],
+          [
+            -81.79886950473055,
+            26.250982022455688
+          ],
+          [
+            -81.79887493578303,
+            26.250974418982192
+          ],
+          [
+            -81.79888160821896,
+            26.250966815508697
+          ],
+          [
+            -81.79889060824881,
+            26.25095952238106
+          ],
+          [
+            -81.79889339508588,
+            26.250957890433227
+          ],
+          [
+            -81.79892612404115,
+            26.25099454920931
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "office",
+      "unit": "",
+      "room_label": "218",
+      "wing": "main",
+      "room_ID": "2-58"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79891190043605,
+            26.251012907924355
+          ],
+          [
+            -81.79891236966839,
+            26.251041560423733
+          ],
+          [
+            -81.79886003918186,
+            26.251042695070712
+          ],
+          [
+            -81.79885724606916,
+            26.251026712259087
+          ],
+          [
+            -81.79885786676088,
+            26.251012901868457
+          ],
+          [
+            -81.79886050470067,
+            26.25100203976346
+          ],
+          [
+            -81.79886483056758,
+            26.25099126458296
+          ],
+          [
+            -81.79891190043605,
+            26.251012907924355
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "lounge",
+      "unit": "",
+      "room_label": "overall",
+      "wing": "main",
+      "room_ID": "2-59"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.79927942069136,
+            26.25107752654364
+          ],
+          [
+            -81.7992782181012,
+            26.251031595356864
+          ],
+          [
+            -81.79941175934366,
+            26.25102941170493
+          ],
+          [
+            -81.79941222857599,
+            26.25107586570603
+          ],
+          [
+            -81.79927942069136,
+            26.25107752654364
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "garage",
+      "unit": "",
+      "room_label": "parkings",
+      "wing": "main",
+      "room_ID": "2-60"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [ 
+          [ 
+              [ -81.799682977532228, 26.251454792296219 ], 
+              [ -81.799678754441231, 26.251292437908525 ], 
+              [ -81.799691421814714, 26.251291360655589 ], 
+              [ -81.799691421814714, 26.251281037544235 ], 
+              [ -81.798992382944562, 26.251293824125341 ], 
+              [ -81.798992382944576, 26.251303795312449 ], 
+              [ -81.799006134058843, 26.251303873517841 ], 
+              [ -81.799009887917492, 26.251466697137868 ], 
+              [ -81.798879649876284, 26.251468965094144 ], 
+              [ -81.798878711411575, 26.251451603497774 ], 
+              [ -81.798855249794869, 26.251452541962443 ], 
+              [ -81.798849149774497, 26.251133933207409 ], 
+              [ -81.79981881839349, 26.251117744691868 ], 
+              [ -81.799824683797667, 26.251430488042729 ], 
+              [ -81.799802160645612, 26.251430018810396 ], 
+              [ -81.799803099110278, 26.251453245810946 ], 
+              [ -81.799682977532228, 26.251454792296219 ] 
+          ] 
+        ]
+      }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "date_collected": "2024-09-03",
+      "source": "Pure Wireless, LLC",
+      "street_address": "999 Vandebilt Beach Rd",
+      "postal_community": "Naples",
+      "zip": "34108",
+      "site_type": "commercial",
+      "site_name": "999 Center",
+      "building": "multi level",
+      "floor_level": 1,
+      "floor_label": "level 2",
+      "floor_height": "10 ft 8 in",
+      "space_type": "garage",
+      "unit": "",
+      "room_label": "2/3 ramp",
+      "wing": "main",
+      "room_ID": "2-61"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [ 
+          [ 
+              [ -81.799682977532228, 26.251454792296219 ], 
+              [ -81.799009887917492, 26.251466697137868 ], 
+              [ -81.799006134058843, 26.251303873517841 ], 
+              [ -81.799678754441231, 26.251292437908525 ], 
+              [ -81.799682977532228, 26.251454792296219 ] 
+            ] 
+      ]
+    }
+  }]
+}
