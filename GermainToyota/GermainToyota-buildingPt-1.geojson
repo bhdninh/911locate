@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-11-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "13315 N Tamiami Trail",
+        "postal_community": "Naples",
+        "zip": "34110",
+        "site_type": "commercial",
+        "site_name": "GermainToyota",
+        "building": "multi level",
+        "floor_level": 1,
+        "floor_label": "floor-2",
+        "floor_height": "14 ft",
+        "location_type": "door external",
+        "label_id": "stair #3",
+        "wing": "main",
+        "location_id": "2-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.80312931168841,
+          26.29211623654565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-11-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "13315 N Tamiami Trail",
+        "postal_community": "Naples",
+        "zip": "34110",
+        "site_type": "commercial",
+        "site_name": "GermainToyota",
+        "building": "multi level",
+        "floor_level": 1,
+        "floor_label": "floor-2",
+        "floor_height": "14 ft",
+        "location_type": "door external",
+        "label_id": "stair #4",
+        "wing": "main",
+        "location_id": "2-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8033432230154,
+          26.291316433312865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-11-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "13315 N Tamiami Trail",
+        "postal_community": "Naples",
+        "zip": "34110",
+        "site_type": "commercial",
+        "site_name": "GermainToyota",
+        "building": "multi level",
+        "floor_level": 1,
+        "floor_label": "floor-2",
+        "floor_height": "14 ft",
+        "location_type": "entrance",
+        "label_id": "parking ramp",
+        "wing": "main",
+        "location_id": "2-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8036331917032,
+          26.291261029332247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-11-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "13315 N Tamiami Trail",
+        "postal_community": "Naples",
+        "zip": "34110",
+        "site_type": "commercial",
+        "site_name": "GermainToyota",
+        "building": "multi level",
+        "floor_level": 1,
+        "floor_label": "floor-2",
+        "floor_height": "14 ft",
+        "location_type": "door external",
+        "label_id": "elevator",
+        "wing": "main",
+        "location_id": "2-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.80314000725477,
+          26.291735868999783
+        ]
+      }
+    }
+  ]
+}
