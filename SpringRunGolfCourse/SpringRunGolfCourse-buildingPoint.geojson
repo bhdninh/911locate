@@ -1,0 +1,977 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "Tee",
+        "label_id": "T-1",
+        "location_id": "1-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79589744410944,
+          26.39377910231174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "green",
+        "label_id": "G-1",
+        "location_id": "1-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79813616196292,
+          26.39201240885182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "tee",
+        "label_id": "T-2",
+        "location_id": "1-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79991340178033,
+          26.391124130757394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "green",
+        "label_id": "G-2",
+        "location_id": "1-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.80325637064864,
+          26.39263247704487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "tee",
+        "label_id": "T-3",
+        "location_id": "1-5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8036629108232,
+          26.393629008235727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "green",
+        "label_id": "G-3",
+        "location_id": "1-6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8034898565597,
+          26.396911348911832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "tee",
+        "label_id": "T-4",
+        "location_id": "1-7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.80187468343351,
+          26.39723613316995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "green",
+        "label_id": "G-4",
+        "location_id": "1-8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.80030346059645,
+          26.39837779179526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "tee",
+        "label_id": "T-5",
+        "location_id": "1-9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.80002327750314,
+          26.397809424365164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "green",
+        "label_id": "G-5",
+        "location_id": "1-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8014186991836,
+          26.395284953389716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "tee",
+        "label_id": "T-6",
+        "location_id": "1-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.80164943820161,
+          26.394773163069846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "green",
+        "label_id": "G-6",
+        "location_id": "1-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8014846246173,
+          26.39368067998884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "tee",
+        "label_id": "T-7",
+        "location_id": "1-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.80089129571383,
+          26.39390705120609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "green",
+        "label_id": "G-7",
+        "location_id": "1-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79924315987078,
+          26.397450195022262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "tee",
+        "label_id": "T-8",
+        "location_id": "1-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79867180611187,
+          26.39677110088152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "green",
+        "label_id": "G-8",
+        "location_id": "1-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.80025401652118,
+          26.393946420068126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "tee",
+        "label_id": "T-9",
+        "location_id": "1-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79883661969615,
+          26.39235197041763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "green",
+        "label_id": "G-9",
+        "location_id": "1-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79746317316031,
+          26.3953538480672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "tee",
+        "label_id": "T-10",
+        "location_id": "1-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79494152532044,
+          26.395053663814593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "green",
+        "label_id": "G-10",
+        "location_id": "1-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79107389987544,
+          26.39322301508514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "tee",
+        "label_id": "T-11",
+        "location_id": "1-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79081569192671,
+          26.392489763231946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "green",
+        "label_id": "G-11",
+        "location_id": "1-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79029378224307,
+          26.394930637256063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "tee",
+        "label_id": "T-12",
+        "location_id": "1-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79025532574009,
+          26.395270190239184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "green",
+        "label_id": "G-12",
+        "location_id": "1-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.78553066965672,
+          26.39553100562051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "tee",
+        "label_id": "T-13",
+        "location_id": "1-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.78484944017492,
+          26.39566387360708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "green",
+        "label_id": "G-13",
+        "location_id": "1-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.78499227861468,
+          26.392642319370264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "tee",
+        "label_id": "T-14",
+        "location_id": "1-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.78495382211169,
+          26.39095926952819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "green",
+        "label_id": "G-14",
+        "location_id": "1-28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.78660745174086,
+          26.391451391903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "tee",
+        "label_id": "T-15",
+        "location_id": "1-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7862943059307,
+          26.393503519596155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "green",
+        "label_id": "G-15",
+        "location_id": "1-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.78911811200844,
+          26.392263389235847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "tee",
+        "label_id": "T-16",
+        "location_id": "1-31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79017291894796,
+          26.39134804637827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "green",
+        "label_id": "G-16",
+        "location_id": "1-32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7925132718451,
+          26.39233228571642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "tee",
+        "label_id": "T-17",
+        "location_id": "1-33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79388671838096,
+          26.39284408685653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "green",
+        "label_id": "G-17",
+        "location_id": "1-34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79478769930847,
+          26.391407100975155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "tee",
+        "label_id": "T-18",
+        "location_id": "1-35"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7958150373173,
+          26.391259464426312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2025-04-26",
+        "source": "Pure Wireless, LLC",
+        "street_address": "9501 Spring Run Blvd",
+        "postal_community": "Estero",
+        "zip": "34135",
+        "site_type": "golf club",
+        "site_name": "Spring Run Golf Course",
+        "building": "single level",
+        "wing": "main",
+        "floor_level": 0,
+        "floor_label": "Floor 1",
+        "floor_height": "0ft",
+        "location_type": "green",
+        "label_id": "G-18",
+        "location_id": "1-36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.79382079294724,
+          26.394005473336
+        ]
+      }
+    }
+  ]
+}
