@@ -1,0 +1,4504 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "kitchen",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79512435054201,
+              26.2639218804845
+            ],
+            [
+              -81.79511147647973,
+              26.263957718119233
+            ],
+            [
+              -81.79508036416257,
+              26.263948578320818
+            ],
+            [
+              -81.79504737437802,
+              26.26396312984163
+            ],
+            [
+              -81.79503007485684,
+              26.26393102028501
+            ],
+            [
+              -81.79494974607243,
+              26.26390600609243
+            ],
+            [
+              -81.79484011538578,
+              26.263954410955407
+            ],
+            [
+              -81.79481497073293,
+              26.263908952475948
+            ],
+            [
+              -81.79480845548865,
+              26.26389642064459
+            ],
+            [
+              -81.79483565733385,
+              26.26388458898138
+            ],
+            [
+              -81.794825162699,
+              26.263865358017974
+            ],
+            [
+              -81.79487679305288,
+              26.26384274902366
+            ],
+            [
+              -81.79501759848954,
+              26.26388711045985
+            ],
+            [
+              -81.7950147869077,
+              26.263894912055704
+            ],
+            [
+              -81.795041933811,
+              26.263903478570906
+            ],
+            [
+              -81.79504454908091,
+              26.263896806643466
+            ],
+            [
+              -81.79512435054201,
+              26.2639218804845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "stair",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.7947980735263,
+              26.263877384076988
+            ],
+            [
+              -81.79481497073293,
+              26.263908952475948
+            ],
+            [
+              -81.79479968278407,
+              26.26391526615473
+            ],
+            [
+              -81.79477437680117,
+              26.26386883869522
+            ],
+            [
+              -81.79481696047898,
+              26.26384986951066
+            ],
+            [
+              -81.794825162699,
+              26.263865358017974
+            ],
+            [
+              -81.7947980735263,
+              26.263877384076988
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "equip.  room",
+        "unit": "",
+        "room_label": "elevator equip.",
+        "room_ID": "1-3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79473232994435,
+              26.26391554644682
+            ],
+            [
+              -81.79471405311571,
+              26.263923453915073
+            ],
+            [
+              -81.79470194872475,
+              26.26390080979999
+            ],
+            [
+              -81.7947200652304,
+              26.263893189874555
+            ],
+            [
+              -81.79473232994435,
+              26.26391554644682
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "electrical",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79481696432848,
+              26.263849876779776
+            ],
+            [
+              -81.79485104630932,
+              26.263834701920494
+            ],
+            [
+              -81.79487679305288,
+              26.26384274902366
+            ],
+            [
+              -81.794825162699,
+              26.263865358017974
+            ],
+            [
+              -81.79481696432848,
+              26.263849876779776
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "storage",
+        "unit": "",
+        "room_label": "dry",
+        "room_ID": "1-5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79473768512239,
+              26.263967280741735
+            ],
+            [
+              -81.79471410960969,
+              26.26392342947296
+            ],
+            [
+              -81.79473449430569,
+              26.263914611927802
+            ],
+            [
+              -81.79474329170921,
+              26.263931200675792
+            ],
+            [
+              -81.79477252655894,
+              26.26391821253803
+            ],
+            [
+              -81.79478732075349,
+              26.26394516350698
+            ],
+            [
+              -81.79473768512239,
+              26.263967280741735
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "office",
+        "unit": "",
+        "room_label": "chef",
+        "room_ID": "1-6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79477252655894,
+              26.26391821253803
+            ],
+            [
+              -81.79474329170921,
+              26.263931200675792
+            ],
+            [
+              -81.79473449430569,
+              26.263914611927802
+            ],
+            [
+              -81.79476362901374,
+              26.26390191256017
+            ],
+            [
+              -81.79477252655894,
+              26.26391821253803
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "break room",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79473768512239,
+              26.263967280741735
+            ],
+            [
+              -81.794803753867,
+              26.263937831128708
+            ],
+            [
+              -81.79482214534063,
+              26.263971247424752
+            ],
+            [
+              -81.79474007319365,
+              26.264008047127845
+            ],
+            [
+              -81.79472153181942,
+              26.263974324254377
+            ],
+            [
+              -81.79473768512239,
+              26.263967280741735
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "utility room",
+        "unit": "",
+        "room_label": "electric / tele",
+        "room_ID": "1-8"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79472153181942,
+              26.263974324254377
+            ],
+            [
+              -81.79473309974323,
+              26.263995058998677
+            ],
+            [
+              -81.79471861642315,
+              26.26400155306344
+            ],
+            [
+              -81.79472719913134,
+              26.264017667963337
+            ],
+            [
+              -81.79469918429302,
+              26.264030055659706
+            ],
+            [
+              -81.794678838485,
+              26.263992940323693
+            ],
+            [
+              -81.79472153181942,
+              26.263974324254377
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "maint rm",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-9"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79472719913134,
+              26.264017667963337
+            ],
+            [
+              -81.79474865590181,
+              26.2640566323389
+            ],
+            [
+              -81.79472063933058,
+              26.264069194467357
+            ],
+            [
+              -81.79469918429302,
+              26.264030055659706
+            ],
+            [
+              -81.79472719913134,
+              26.264017667963337
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "connector",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-10"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79474865590181,
+              26.2640566323389
+            ],
+            [
+              -81.79471861642315,
+              26.26400155306344
+            ],
+            [
+              -81.79473296526488,
+              26.26399511929639
+            ],
+            [
+              -81.79476313922187,
+              26.264049897756404
+            ],
+            [
+              -81.79474865590181,
+              26.2640566323389
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "toilet",
+        "unit": "",
+        "room_label": "women",
+        "room_ID": "1-11"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79476313922187,
+              26.264049897756404
+            ],
+            [
+              -81.79474008376883,
+              26.264008042386124
+            ],
+            [
+              -81.79477266066374,
+              26.26399325509174
+            ],
+            [
+              -81.79479599490162,
+              26.26403510572562
+            ],
+            [
+              -81.79476313922187,
+              26.264049897756404
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "toilet",
+        "unit": "",
+        "room_label": "men",
+        "room_ID": "1-12"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79479599490162,
+              26.26403510572562
+            ],
+            [
+              -81.79477266066374,
+              26.26399325509174
+            ],
+            [
+              -81.79480565044831,
+              26.263978944095655
+            ],
+            [
+              -81.79482818005728,
+              26.264020554213822
+            ],
+            [
+              -81.79479599490162,
+              26.26403510572562
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "storage",
+        "unit": "",
+        "room_label": "dry",
+        "room_ID": "1-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79481400140637,
+              26.26399436754979
+            ],
+            [
+              -81.79483776620019,
+              26.26398355513367
+            ],
+            [
+              -81.79484851140197,
+              26.264002995947273
+            ],
+            [
+              -81.79482435807006,
+              26.264013488913022
+            ],
+            [
+              -81.79481400140637,
+              26.26399436754979
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "stair",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-14"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79484851140197,
+              26.264002995947273
+            ],
+            [
+              -81.79487206585812,
+              26.264046049423378
+            ],
+            [
+              -81.79484779288653,
+              26.264056993120096
+            ],
+            [
+              -81.79482435807006,
+              26.264013488913022
+            ],
+            [
+              -81.79484851140197,
+              26.264002995947273
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "closet",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79484779288653,
+              26.264056993120096
+            ],
+            [
+              -81.79483411419531,
+              26.26406312640021
+            ],
+            [
+              -81.79481417416271,
+              26.264026886541355
+            ],
+            [
+              -81.79482818005728,
+              26.264020554213822
+            ],
+            [
+              -81.79484779288653,
+              26.264056993120096
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "laundry",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-16"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79487206585812,
+              26.264046049423378
+            ],
+            [
+              -81.79488571102299,
+              26.264070582544242
+            ],
+            [
+              -81.794847222941,
+              26.26408777977785
+            ],
+            [
+              -81.79483411419531,
+              26.26406312640021
+            ],
+            [
+              -81.79487206585812,
+              26.264046049423378
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "office",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-17"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79488571102299,
+              26.264070582544242
+            ],
+            [
+              -81.79489737814193,
+              26.264091988890577
+            ],
+            [
+              -81.79485889005993,
+              26.264108825339985
+            ],
+            [
+              -81.794847222941,
+              26.26408777977785
+            ],
+            [
+              -81.79488571102299,
+              26.264070582544242
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "toilet",
+        "unit": "",
+        "room_label": "lady",
+        "room_ID": "1-18"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79489737814193,
+              26.264091988890577
+            ],
+            [
+              -81.79491266609088,
+              26.264119648770453
+            ],
+            [
+              -81.79487390979925,
+              26.264136725736478
+            ],
+            [
+              -81.79485889005993,
+              26.264108825339985
+            ],
+            [
+              -81.79489737814193,
+              26.264091988890577
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "locker room",
+        "unit": "",
+        "room_label": "men",
+        "room_ID": "1-19"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79484011538578,
+              26.263954410955407
+            ],
+            [
+              -81.79494974607243,
+              26.26390600609243
+            ],
+            [
+              -81.79497194041923,
+              26.263912680552973
+            ],
+            [
+              -81.79501512216977,
+              26.263989406756814
+            ],
+            [
+              -81.79489027058676,
+              26.264044546168225
+            ],
+            [
+              -81.79484011538578,
+              26.263954410955407
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "toilet",
+        "unit": "",
+        "room_label": "men",
+        "room_ID": "1-20"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79501512216977,
+              26.263989406756814
+            ],
+            [
+              -81.79504516164842,
+              26.26404472655885
+            ],
+            [
+              -81.79495209290658,
+              26.264085855611977
+            ],
+            [
+              -81.7949217852183,
+              26.264030535829537
+            ],
+            [
+              -81.79501512216977,
+              26.263989406756814
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "mechanical",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-21"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79495209290658,
+              26.264085855611977
+            ],
+            [
+              -81.79491990775091,
+              26.264100286855236
+            ],
+            [
+              -81.79490274233454,
+              26.264068057076155
+            ],
+            [
+              -81.79493465928057,
+              26.264054106870496
+            ],
+            [
+              -81.79495209290658,
+              26.264085855611977
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "storage",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-22"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79489027058676,
+              26.264044546168225
+            ],
+            [
+              -81.7949217852183,
+              26.264030535829537
+            ],
+            [
+              -81.79492768752863,
+              26.26404102976416
+            ],
+            [
+              -81.79489576200973,
+              26.2640551985268
+            ],
+            [
+              -81.79489027058676,
+              26.264044546168225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "hallway",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-23"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79489674114406,
+              26.26405735390127
+            ],
+            [
+              -81.79488172140472,
+              26.26406384796255
+            ],
+            [
+              -81.79482925289581,
+              26.26396788013109
+            ],
+            [
+              -81.79482214534063,
+              26.263971247424752
+            ],
+            [
+              -81.794803753867,
+              26.263937831128708
+            ],
+            [
+              -81.7947873174683,
+              26.2639451575223
+            ],
+            [
+              -81.79476353415052,
+              26.263901953882627
+            ],
+            [
+              -81.79478688044334,
+              26.263891784227457
+            ],
+            [
+              -81.79479968278407,
+              26.26391526615473
+            ],
+            [
+              -81.79481497073293,
+              26.263908952475948
+            ],
+            [
+              -81.79489674114406,
+              26.26405735390127
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "storage",
+        "unit": "",
+        "room_label": "bags",
+        "room_ID": "1-24"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79483726565847,
+              26.26406847798749
+            ],
+            [
+              -81.79487390979925,
+              26.264136725736478
+            ],
+            [
+              -81.79485925884819,
+              26.264143039402843
+            ],
+            [
+              -81.79487401037788,
+              26.264171180311674
+            ],
+            [
+              -81.79485604033262,
+              26.264179057359726
+            ],
+            [
+              -81.79480400766427,
+              26.264083630795135
+            ],
+            [
+              -81.79483726565847,
+              26.26406847798749
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "elevator",
+        "unit": "",
+        "room_label": "main lobby",
+        "room_ID": "1-25"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79487401037788,
+              26.264171180311674
+            ],
+            [
+              -81.79485925884819,
+              26.264143039402843
+            ],
+            [
+              -81.79488259308606,
+              26.26413293753647
+            ],
+            [
+              -81.79489788103501,
+              26.264160356886006
+            ],
+            [
+              -81.79487401037788,
+              26.264171180311674
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "storage",
+        "unit": "",
+        "room_label": "bags",
+        "room_ID": "1-26"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79489788103501,
+              26.264160356886006
+            ],
+            [
+              -81.7949318820514,
+              26.26422355990897
+            ],
+            [
+              -81.7949175992684,
+              26.264229928081487
+            ],
+            [
+              -81.79492864552968,
+              26.264249995940833
+            ],
+            [
+              -81.79490391575168,
+              26.26426095457567
+            ],
+            [
+              -81.7948917712262,
+              26.264238278543363
+            ],
+            [
+              -81.79487977705735,
+              26.264243400412035
+            ],
+            [
+              -81.79484705530999,
+              26.26418326646914
+            ],
+            [
+              -81.79489788103501,
+              26.264160356886006
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "stair",
+        "unit": "",
+        "room_label": "main lobby",
+        "room_ID": "1-27"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.7949318820514,
+              26.26422355990897
+            ],
+            [
+              -81.79489788103501,
+              26.264160356886006
+            ],
+            [
+              -81.79492798756604,
+              26.264146797537432
+            ],
+            [
+              -81.79496258391714,
+              26.26421004536145
+            ],
+            [
+              -81.7949318820514,
+              26.26422355990897
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "storage",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-28"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79504737437802,
+              26.26396312984163
+            ],
+            [
+              -81.7950091209793,
+              26.263979064356093
+            ],
+            [
+              -81.79497194041923,
+              26.263912680552973
+            ],
+            [
+              -81.79503007485684,
+              26.26393102028501
+            ],
+            [
+              -81.79504737437802,
+              26.26396312984163
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "veranda",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-29"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79517762723971,
+              26.264066983356166
+            ],
+            [
+              -81.79513221573337,
+              26.264194113648877
+            ],
+            [
+              -81.79502599168683,
+              26.264240956292273
+            ],
+            [
+              -81.79501156454283,
+              26.264213351263614
+            ],
+            [
+              -81.79508985207818,
+              26.26417893709944
+            ],
+            [
+              -81.79512150081457,
+              26.26409162810947
+            ],
+            [
+              -81.79517762723971,
+              26.264066983356166
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "storage",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-30"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79512150081457,
+              26.26409162810947
+            ],
+            [
+              -81.7951099678004,
+              26.264122414758063
+            ],
+            [
+              -81.79508234220846,
+              26.264113996534647
+            ],
+            [
+              -81.79506839530765,
+              26.2640875392571
+            ],
+            [
+              -81.79508448788553,
+              26.264080203374526
+            ],
+            [
+              -81.79512150081457,
+              26.26409162810947
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "merchant",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-31"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79508448788553,
+              26.264080203374526
+            ],
+            [
+              -81.79503513731348,
+              26.26410257180189
+            ],
+            [
+              -81.79501904473565,
+              26.264097761387763
+            ],
+            [
+              -81.7950124735997,
+              26.26410052737591
+            ],
+            [
+              -81.79500536604449,
+              26.264087058215623
+            ],
+            [
+              -81.79505645997911,
+              26.264064449264477
+            ],
+            [
+              -81.79506115364767,
+              26.26407298775187
+            ],
+            [
+              -81.79508448788553,
+              26.264080203374526
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "merchant",
+        "unit": "",
+        "room_label": "pro shop",
+        "room_ID": "1-32"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79501156261155,
+              26.264213352112588
+            ],
+            [
+              -81.7950008753585,
+              26.264193012247024
+            ],
+            [
+              -81.79499067895303,
+              26.264197532258326
+            ],
+            [
+              -81.79494662813536,
+              26.264116281481044
+            ],
+            [
+              -81.79495883167358,
+              26.264111110286464
+            ],
+            [
+              -81.79495614957727,
+              26.264106660653724
+            ],
+            [
+              -81.79497183984067,
+              26.26409980581378
+            ],
+            [
+              -81.7949729126792,
+              26.264101489458717
+            ],
+            [
+              -81.79500536604449,
+              26.264087058215623
+            ],
+            [
+              -81.7950124735997,
+              26.26410052737591
+            ],
+            [
+              -81.79501904473565,
+              26.264097761387763
+            ],
+            [
+              -81.79503513731348,
+              26.26410257180189
+            ],
+            [
+              -81.79506839530765,
+              26.2640875392571
+            ],
+            [
+              -81.79508234220846,
+              26.264113996534647
+            ],
+            [
+              -81.7951099678004,
+              26.264122414758063
+            ],
+            [
+              -81.79508985207818,
+              26.26417893709944
+            ],
+            [
+              -81.79501156261155,
+              26.264213352112588
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "grille room",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-33"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79517762723971,
+              26.264066983356166
+            ],
+            [
+              -81.79512150081457,
+              26.26409162810947
+            ],
+            [
+              -81.79506115364767,
+              26.26407298775187
+            ],
+            [
+              -81.7950091209793,
+              26.263979064356093
+            ],
+            [
+              -81.79508036416257,
+              26.263948578320818
+            ],
+            [
+              -81.79511147647973,
+              26.263957718119233
+            ],
+            [
+              -81.79512435054201,
+              26.2639218804845
+            ],
+            [
+              -81.79516363532825,
+              26.26393443547162
+            ],
+            [
+              -81.79520143981539,
+              26.264000444539988
+            ],
+            [
+              -81.79517762723971,
+              26.264066983356166
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "lobby",
+        "unit": "",
+        "room_label": "main lobby",
+        "room_ID": "1-34"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79499072061392,
+              26.264197609100922
+            ],
+            [
+              -81.79496255806292,
+              26.264209998095673
+            ],
+            [
+              -81.79492798756604,
+              26.264146797537432
+            ],
+            [
+              -81.79489788103501,
+              26.264160356886006
+            ],
+            [
+              -81.79488259308606,
+              26.26413293753647
+            ],
+            [
+              -81.79491266609088,
+              26.264119648770453
+            ],
+            [
+              -81.79488172140472,
+              26.26406384796255
+            ],
+            [
+              -81.79489674114406,
+              26.26405735390127
+            ],
+            [
+              -81.79491990775091,
+              26.264100286855236
+            ],
+            [
+              -81.7949346101539,
+              26.264093541819086
+            ],
+            [
+              -81.79494662813536,
+              26.264116281481044
+            ],
+            [
+              -81.79499072061392,
+              26.264197609100922
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "storage",
+        "unit": "",
+        "room_label": "carts",
+        "room_ID": "1-35"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79492864552968,
+              26.264249995940833
+            ],
+            [
+              -81.79494405326135,
+              26.26427822123736
+            ],
+            [
+              -81.7949228630731,
+              26.264287662002324
+            ],
+            [
+              -81.79492664221497,
+              26.26429468205782
+            ],
+            [
+              -81.79483810232016,
+              26.26433353442628
+            ],
+            [
+              -81.79476683850235,
+              26.264203784409784
+            ],
+            [
+              -81.79478924341475,
+              26.264194343637993
+            ],
+            [
+              -81.79472063933058,
+              26.264069194467357
+            ],
+            [
+              -81.79481417416271,
+              26.264026886541355
+            ],
+            [
+              -81.79483701940876,
+              26.264068590182312
+            ],
+            [
+              -81.79480400766427,
+              26.264083630795135
+            ],
+            [
+              -81.79485604033262,
+              26.264179057359726
+            ],
+            [
+              -81.79484705530999,
+              26.26418326646914
+            ],
+            [
+              -81.79487977705735,
+              26.264243400412035
+            ],
+            [
+              -81.7948917712262,
+              26.264238278543363
+            ],
+            [
+              -81.79490391575168,
+              26.26426095457567
+            ],
+            [
+              -81.79492864552968,
+              26.264249995940833
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "service bar",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-36"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.795041933811,
+              26.263903478570906
+            ],
+            [
+              -81.7950147869077,
+              26.263894912055704
+            ],
+            [
+              -81.7950261015587,
+              26.26386350846469
+            ],
+            [
+              -81.79505405328314,
+              26.26387250968941
+            ],
+            [
+              -81.795041933811,
+              26.263903478570906
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "toilet",
+        "unit": "",
+        "room_label": "unisex",
+        "room_ID": "1-37"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79515387647594,
+              26.264133474045057
+            ],
+            [
+              -81.7951624183644,
+              26.26410956087957
+            ],
+            [
+              -81.79517822508686,
+              26.264113976011195
+            ],
+            [
+              -81.79516890265448,
+              26.264138100636654
+            ],
+            [
+              -81.79515387647594,
+              26.264133474045057
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "veranda",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-38"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79515387647594,
+              26.264133474045057
+            ],
+            [
+              -81.79522276423367,
+              26.264154459897508
+            ],
+            [
+              -81.79519280096692,
+              26.26424284295833
+            ],
+            [
+              -81.79505815973232,
+              26.264302010964556
+            ],
+            [
+              -81.79502610554918,
+              26.264240906081298
+            ],
+            [
+              -81.79513221573337,
+              26.264194113648877
+            ],
+            [
+              -81.79515387647594,
+              26.264133474045057
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "pavilion",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-39"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79501683200614,
+              26.26383006152754
+            ],
+            [
+              -81.79488822548824,
+              26.263790375511924
+            ],
+            [
+              -81.7949000937644,
+              26.26375736395222
+            ],
+            [
+              -81.79502870028232,
+              26.263797831673454
+            ],
+            [
+              -81.79501683200614,
+              26.26383006152754
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "storage",
+        "unit": "",
+        "room_label": "building",
+        "room_ID": "1-40"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79480327008775,
+              26.263776635729087
+            ],
+            [
+              -81.7947995822053,
+              26.26384689801494
+            ],
+            [
+              -81.79476042359921,
+              26.2638444928026
+            ],
+            [
+              -81.79476414500789,
+              26.26377435077599
+            ],
+            [
+              -81.79480327008775,
+              26.263776635729087
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "linen",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "1-41"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79483776620019,
+              26.26398355513367
+            ],
+            [
+              -81.79481400140637,
+              26.26399436754979
+            ],
+            [
+              -81.79480565044831,
+              26.263978944095655
+            ],
+            [
+              -81.79482925289581,
+              26.26396788013109
+            ],
+            [
+              -81.79483776620019,
+              26.26398355513367
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "elevator",
+        "unit": "",
+        "room_label": "freight",
+        "room_ID": "1-42"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.794825162699,
+              26.263865358017974
+            ],
+            [
+              -81.79483565733385,
+              26.26388458898138
+            ],
+            [
+              -81.79480845548865,
+              26.26389642064459
+            ],
+            [
+              -81.7947980735263,
+              26.263877384076988
+            ],
+            [
+              -81.794825162699,
+              26.263865358017974
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "security",
+        "unit": "",
+        "room_label": "electric securi",
+        "room_ID": "1-43"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79492756439909,
+              26.264041084409897
+            ],
+            [
+              -81.79493465928057,
+              26.264054106870496
+            ],
+            [
+              -81.79490274233454,
+              26.264068057076155
+            ],
+            [
+              -81.79489576200973,
+              26.2640551985268
+            ],
+            [
+              -81.79492756439909,
+              26.264041084409897
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 0,
+        "floor_label": "level 1",
+        "floor_height": "0 ft",
+        "space_type": "hallway",
+        "unit": "",
+        "room_label": "gallery",
+        "room_ID": "1-44"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79504516164842,
+              26.26404472655885
+            ],
+            [
+              -81.79505645997911,
+              26.264064449264477
+            ],
+            [
+              -81.7949729126792,
+              26.264101489458717
+            ],
+            [
+              -81.79497183984067,
+              26.26409980581378
+            ],
+            [
+              -81.79495614957727,
+              26.264106660653724
+            ],
+            [
+              -81.79495883167358,
+              26.264111110286464
+            ],
+            [
+              -81.79494662813536,
+              26.264116281481044
+            ],
+            [
+              -81.7949346101539,
+              26.264093541819086
+            ],
+            [
+              -81.79504516164842,
+              26.26404472655885
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "grille room",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "2-1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79518969899027,
+              26.26424146281992
+            ],
+            [
+              -81.79505783393357,
+              26.26430052812447
+            ],
+            [
+              -81.79499728881044,
+              26.264190978937577
+            ],
+            [
+              -81.79500132613715,
+              26.26418921935219
+            ],
+            [
+              -81.79498197142382,
+              26.264154758228475
+            ],
+            [
+              -81.79495899534392,
+              26.26414780842973
+            ],
+            [
+              -81.7949480543535,
+              26.26412785841688
+            ],
+            [
+              -81.79495571304683,
+              26.264107172539294
+            ],
+            [
+              -81.7949779597273,
+              26.264097524579316
+            ],
+            [
+              -81.79500075345742,
+              26.264104310856325
+            ],
+            [
+              -81.79502649224156,
+              26.264093173062644
+            ],
+            [
+              -81.79522074194122,
+              26.26415564862512
+            ],
+            [
+              -81.79518969899027,
+              26.26424146281992
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "stair",
+        "unit": "",
+        "room_label": "outdoor north",
+        "room_ID": "2-2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.7949972495659,
+              26.26430293370369
+            ],
+            [
+              -81.79495810845383,
+              26.264320120733036
+            ],
+            [
+              -81.79493680495783,
+              26.26428061711451
+            ],
+            [
+              -81.79494902787175,
+              26.26427524122152
+            ],
+            [
+              -81.794964317044,
+              26.264302691632842
+            ],
+            [
+              -81.79499023115962,
+              26.264290830160373
+            ],
+            [
+              -81.7949972495659,
+              26.26430293370369
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "balcony",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "2-3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79495651836568,
+              26.264271958382214
+            ],
+            [
+              -81.79492063758747,
+              26.264287743756483
+            ],
+            [
+              -81.79489308678802,
+              26.264237203186386
+            ],
+            [
+              -81.7949286245641,
+              26.264221449097647
+            ],
+            [
+              -81.79495651836568,
+              26.264271958382214
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "locker room",
+        "unit": "",
+        "room_label": "women",
+        "room_ID": "2-4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.7949240961772,
+              26.264294098117198
+            ],
+            [
+              -81.7948375808227,
+              26.2643321032379
+            ],
+            [
+              -81.79478204093444,
+              26.26423091760236
+            ],
+            [
+              -81.79480593050971,
+              26.26422044803098
+            ],
+            [
+              -81.7948103844983,
+              26.264229162587572
+            ],
+            [
+              -81.7948413223293,
+              26.264214714524698
+            ],
+            [
+              -81.79485365997232,
+              26.26423768422721
+            ],
+            [
+              -81.79488563366601,
+              26.26422359326728
+            ],
+            [
+              -81.7949240961772,
+              26.264294098117198
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "toilet",
+        "unit": "",
+        "room_label": "men",
+        "room_ID": "2-5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79500132613715,
+              26.26418921935219
+            ],
+            [
+              -81.79496111737102,
+              26.264207030225926
+            ],
+            [
+              -81.79493474309628,
+              26.264158537949072
+            ],
+            [
+              -81.79495899534392,
+              26.26414780842973
+            ],
+            [
+              -81.79498197142382,
+              26.264154758228475
+            ],
+            [
+              -81.79500132613715,
+              26.26418921935219
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "stair",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "2-6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79496111737102,
+              26.264207030225926
+            ],
+            [
+              -81.79493030788623,
+              26.26422070211372
+            ],
+            [
+              -81.79488547633983,
+              26.264138364283223
+            ],
+            [
+              -81.79489432725761,
+              26.26413475647377
+            ],
+            [
+              -81.79488991925719,
+              26.26412615302809
+            ],
+            [
+              -81.79491127475364,
+              26.264116446839015
+            ],
+            [
+              -81.79492367944906,
+              26.264138935519714
+            ],
+            [
+              -81.7949480543535,
+              26.26412785841688
+            ],
+            [
+              -81.79495899534392,
+              26.26414780842973
+            ],
+            [
+              -81.79493474309628,
+              26.264158537949072
+            ],
+            [
+              -81.79496111737102,
+              26.264207030225926
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "lounge",
+        "unit": "",
+        "room_label": "women",
+        "room_ID": "2-7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79489308678802,
+              26.264237203186386
+            ],
+            [
+              -81.79485982879383,
+              26.264176471763815
+            ],
+            [
+              -81.79489714345875,
+              26.26415983074721
+            ],
+            [
+              -81.79493030788623,
+              26.26422070211372
+            ],
+            [
+              -81.79489308678802,
+              26.264237203186386
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "toilet",
+        "unit": "",
+        "room_label": "women",
+        "room_ID": "2-8"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79488563366601,
+              26.26422359326728
+            ],
+            [
+              -81.79485365997232,
+              26.26423768422721
+            ],
+            [
+              -81.7948413223293,
+              26.264214714524698
+            ],
+            [
+              -81.7948103844983,
+              26.264229162587572
+            ],
+            [
+              -81.79480593050971,
+              26.26422044803098
+            ],
+            [
+              -81.79478204093444,
+              26.26423091760236
+            ],
+            [
+              -81.79476604706622,
+              26.264201748042744
+            ],
+            [
+              -81.79485289984412,
+              26.264163621843796
+            ],
+            [
+              -81.79488563366601,
+              26.26422359326728
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "attendant room",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "2-9"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79480860075438,
+              26.264162521571194
+            ],
+            [
+              -81.79485658193926,
+              26.26414112949513
+            ],
+            [
+              -81.79487263731134,
+              26.26417075961972
+            ],
+            [
+              -81.79485989703414,
+              26.264176441353026
+            ],
+            [
+              -81.79485289984412,
+              26.264163621843796
+            ],
+            [
+              -81.79481726793523,
+              26.2641793564671
+            ],
+            [
+              -81.79480860075438,
+              26.264162521571194
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "elevator",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "2-10"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79485658193926,
+              26.26414112949513
+            ],
+            [
+              -81.79488991925719,
+              26.26412615302809
+            ],
+            [
+              -81.79489432725761,
+              26.26413475647377
+            ],
+            [
+              -81.79488547633983,
+              26.264138364283223
+            ],
+            [
+              -81.79489714345875,
+              26.26415983074721
+            ],
+            [
+              -81.79487263684184,
+              26.264170759829106
+            ],
+            [
+              -81.79485658193926,
+              26.26414112949513
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "library",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "2-11"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79486703340605,
+              26.26413643427516
+            ],
+            [
+              -81.79483972983465,
+              26.264087704615065
+            ],
+            [
+              -81.79482846503018,
+              26.264092274508897
+            ],
+            [
+              -81.79482076120024,
+              26.264077504575447
+            ],
+            [
+              -81.79483074481212,
+              26.264073092979686
+            ],
+            [
+              -81.79483382922284,
+              26.2640648551433
+            ],
+            [
+              -81.79487339014342,
+              26.264047176864665
+            ],
+            [
+              -81.79488381679276,
+              26.264067260351062
+            ],
+            [
+              -81.79492109506948,
+              26.26396843193604
+            ],
+            [
+              -81.79494625934745,
+              26.26397595408277
+            ],
+            [
+              -81.7949424300008,
+              26.263986746727202
+            ],
+            [
+              -81.79495264608916,
+              26.26398993289632
+            ],
+            [
+              -81.79494219221387,
+              26.264018297268553
+            ],
+            [
+              -81.79493454193913,
+              26.26401602941478
+            ],
+            [
+              -81.79492515460203,
+              26.264041163844077
+            ],
+            [
+              -81.79494242059704,
+              26.26404630497667
+            ],
+            [
+              -81.7949721248136,
+              26.264100031301947
+            ],
+            [
+              -81.79495571304683,
+              26.264107172539294
+            ],
+            [
+              -81.7949480543535,
+              26.26412785841688
+            ],
+            [
+              -81.79492367944906,
+              26.264138935519714
+            ],
+            [
+              -81.79491127475364,
+              26.264116446839015
+            ],
+            [
+              -81.79486703340605,
+              26.26413643427516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "vestibule",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "2-12"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79502651757734,
+              26.264093133272674
+            ],
+            [
+              -81.79500075345742,
+              26.264104310856325
+            ],
+            [
+              -81.7949779597273,
+              26.264097524579316
+            ],
+            [
+              -81.7949721248136,
+              26.264100031301947
+            ],
+            [
+              -81.79494242059704,
+              26.26404630497667
+            ],
+            [
+              -81.79494966225705,
+              26.264048229143203
+            ],
+            [
+              -81.79495871521,
+              26.264023396495457
+            ],
+            [
+              -81.79496448083917,
+              26.26402516920791
+            ],
+            [
+              -81.79499696275592,
+              26.264083995539416
+            ],
+            [
+              -81.79502651757734,
+              26.264093133272674
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "closet",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "2-13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79494966225705,
+              26.264048229143203
+            ],
+            [
+              -81.79492515460203,
+              26.264041163844077
+            ],
+            [
+              -81.79493454193913,
+              26.26401602941478
+            ],
+            [
+              -81.79495871521,
+              26.264023396495457
+            ],
+            [
+              -81.79494966225705,
+              26.264048229143203
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "vestibule",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "2-14"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79496448083917,
+              26.26402516920791
+            ],
+            [
+              -81.79494219221387,
+              26.264018297268553
+            ],
+            [
+              -81.79495264608916,
+              26.26398993289632
+            ],
+            [
+              -81.79497160597514,
+              26.263995822359263
+            ],
+            [
+              -81.79497361182337,
+              26.264000074006464
+            ],
+            [
+              -81.79496448083917,
+              26.26402516920791
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "dining room",
+        "unit": "",
+        "room_label": "private",
+        "room_ID": "2-15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79503434926636,
+              26.26409561496173
+            ],
+            [
+              -81.79499696275592,
+              26.264083995539416
+            ],
+            [
+              -81.79496448083917,
+              26.26402516920791
+            ],
+            [
+              -81.79497361182337,
+              26.264000074006464
+            ],
+            [
+              -81.79497160597514,
+              26.263995822359263
+            ],
+            [
+              -81.79501484619504,
+              26.263976939453144
+            ],
+            [
+              -81.7950703860833,
+              26.264079759291413
+            ],
+            [
+              -81.79503434926636,
+              26.26409561496173
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "office",
+        "unit": "",
+        "room_label": "membership",
+        "room_ID": "2-16"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79488381679276,
+              26.264067260351062
+            ],
+            [
+              -81.79485176574188,
+              26.264008453006813
+            ],
+            [
+              -81.79489998146086,
+              26.264024406220333
+            ],
+            [
+              -81.79488381679276,
+              26.264067260351062
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "stair",
+        "unit": "",
+        "room_label": "B",
+        "room_ID": "2-17"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79484832408788,
+              26.264058377936838
+            ],
+            [
+              -81.79482363620342,
+              26.26401332370476
+            ],
+            [
+              -81.79484831254292,
+              26.26400219946334
+            ],
+            [
+              -81.79487339014342,
+              26.264047176864665
+            ],
+            [
+              -81.79484832408788,
+              26.264058377936838
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "hallway",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "2-18"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79484832408788,
+              26.264058377936838
+            ],
+            [
+              -81.79483382922284,
+              26.2640648551433
+            ],
+            [
+              -81.79481332027368,
+              26.26402783693861
+            ],
+            [
+              -81.79482802695549,
+              26.264021336622793
+            ],
+            [
+              -81.79484832408788,
+              26.264058377936838
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "office",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "2-19"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79483382922284,
+              26.2640648551433
+            ],
+            [
+              -81.79483074481212,
+              26.264073092979686
+            ],
+            [
+              -81.79480298511534,
+              26.26408535953793
+            ],
+            [
+              -81.79477971132431,
+              26.264042586321136
+            ],
+            [
+              -81.79481331659761,
+              26.264027815019375
+            ],
+            [
+              -81.79483382922284,
+              26.2640648551433
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "office",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "2-20"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79477971132431,
+              26.264042586321136
+            ],
+            [
+              -81.7947668438676,
+              26.264019216316434
+            ],
+            [
+              -81.79479158620606,
+              26.26400755105346
+            ],
+            [
+              -81.79480450763,
+              26.264031687028503
+            ],
+            [
+              -81.79477971132431,
+              26.264042586321136
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "office",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "2-21"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.7947668438676,
+              26.264019216316434
+            ],
+            [
+              -81.79475260883234,
+              26.26399283735192
+            ],
+            [
+              -81.79477763930525,
+              26.26398205583546
+            ],
+            [
+              -81.79479147083303,
+              26.264007605448352
+            ],
+            [
+              -81.7947668438676,
+              26.264019216316434
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "work room",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "2-22"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79482802695549,
+              26.264021336622793
+            ],
+            [
+              -81.79480450763,
+              26.264031687028503
+            ],
+            [
+              -81.79477763930525,
+              26.26398205583546
+            ],
+            [
+              -81.79480057122866,
+              26.26397165330386
+            ],
+            [
+              -81.79482802695549,
+              26.264021336622793
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "office",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "2-23"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79484831254292,
+              26.26400219946334
+            ],
+            [
+              -81.79482363620342,
+              26.26401332370476
+            ],
+            [
+              -81.79480057122866,
+              26.26397165330386
+            ],
+            [
+              -81.79482578293394,
+              26.263960589338602
+            ],
+            [
+              -81.79484831254292,
+              26.26400219946334
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "wine room",
+        "unit": "",
+        "room_label": "private dining",
+        "room_ID": "2-24"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79492838906307,
+              26.263948808942303
+            ],
+            [
+              -81.79490031168503,
+              26.26402450777553
+            ],
+            [
+              -81.79485177904296,
+              26.264008416732384
+            ],
+            [
+              -81.79487781860746,
+              26.263937402166228
+            ],
+            [
+              -81.79488271042806,
+              26.263935236368468
+            ],
+            [
+              -81.79492838906307,
+              26.263948808942303
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "storage",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "2-25"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79482578293394,
+              26.263960589338602
+            ],
+            [
+              -81.79487781860746,
+              26.263937402166228
+            ],
+            [
+              -81.7948518068522,
+              26.264008466609052
+            ],
+            [
+              -81.79482578293394,
+              26.263960589338602
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "station",
+        "unit": "",
+        "room_label": "servers",
+        "room_ID": "2-26"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79492346561742,
+              26.263947173691445
+            ],
+            [
+              -81.79488271042806,
+              26.263935236368468
+            ],
+            [
+              -81.79488691796654,
+              26.263924285695175
+            ],
+            [
+              -81.79488074914502,
+              26.263922602047668
+            ],
+            [
+              -81.79487377569461,
+              26.26391081651444
+            ],
+            [
+              -81.79490193770586,
+              26.263898309416643
+            ],
+            [
+              -81.79489791456139,
+              26.263889891176984
+            ],
+            [
+              -81.79495242997992,
+              26.263865926691057
+            ],
+            [
+              -81.79495592388896,
+              26.26386704643272
+            ],
+            [
+              -81.7949393300535,
+              26.263912506395155
+            ],
+            [
+              -81.7949364124561,
+              26.26391168876885
+            ],
+            [
+              -81.79492346561742,
+              26.263947173691445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "elevator",
+        "unit": "",
+        "room_label": "freight",
+        "room_ID": "2-27"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.7948374668238,
+              26.263883429313346
+            ],
+            [
+              -81.79480788756517,
+              26.26389634473411
+            ],
+            [
+              -81.79479702253235,
+              26.263875284494187
+            ],
+            [
+              -81.79482597345827,
+              26.263862273137153
+            ],
+            [
+              -81.7948374668238,
+              26.263883429313346
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "stair",
+        "unit": "",
+        "room_label": "C",
+        "room_ID": "2-28"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79483751333792,
+              26.26388351493324
+            ],
+            [
+              -81.79482597345827,
+              26.263862273137153
+            ],
+            [
+              -81.79478251332702,
+              26.263881699395267
+            ],
+            [
+              -81.79477461761995,
+              26.263867356644276
+            ],
+            [
+              -81.79483184462512,
+              26.263842060142405
+            ],
+            [
+              -81.79485168511984,
+              26.263877221068128
+            ],
+            [
+              -81.79483751333792,
+              26.26388351493324
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "kitchen",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "2-29"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79495242997992,
+              26.263865926691057
+            ],
+            [
+              -81.79489791456139,
+              26.263889891176984
+            ],
+            [
+              -81.79490193770586,
+              26.263898309416643
+            ],
+            [
+              -81.79487377569461,
+              26.26391081651444
+            ],
+            [
+              -81.79488074914502,
+              26.263922602047668
+            ],
+            [
+              -81.79488691796654,
+              26.263924285695175
+            ],
+            [
+              -81.79488271042806,
+              26.263935236368468
+            ],
+            [
+              -81.79475260883234,
+              26.26399283735192
+            ],
+            [
+              -81.7947018691393,
+              26.263899128558666
+            ],
+            [
+              -81.79477461761995,
+              26.263867356644276
+            ],
+            [
+              -81.79478251332702,
+              26.263881699395267
+            ],
+            [
+              -81.79479702253235,
+              26.263875284494187
+            ],
+            [
+              -81.79480788756517,
+              26.26389634473411
+            ],
+            [
+              -81.79485168511984,
+              26.263877221068128
+            ],
+            [
+              -81.79483184462512,
+              26.263842060142405
+            ],
+            [
+              -81.7948511452424,
+              26.26383346659268
+            ],
+            [
+              -81.79495242997992,
+              26.263865926691057
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "dining room",
+        "unit": "",
+        "room_label": "main",
+        "room_ID": "2-30"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79501839089411,
+              26.26388766728206
+            ],
+            [
+              -81.79500492470989,
+              26.263923431909426
+            ],
+            [
+              -81.79513381834305,
+              26.26396391081142
+            ],
+            [
+              -81.79515551797401,
+              26.264003115909713
+            ],
+            [
+              -81.79511155173562,
+              26.264120427265876
+            ],
+            [
+              -81.79503434926636,
+              26.26409561496173
+            ],
+            [
+              -81.7950703860833,
+              26.264079759291413
+            ],
+            [
+              -81.79501484619504,
+              26.263976939453144
+            ],
+            [
+              -81.79497160597514,
+              26.263995822359263
+            ],
+            [
+              -81.7949424300008,
+              26.263986746727202
+            ],
+            [
+              -81.79494625934745,
+              26.26397595408277
+            ],
+            [
+              -81.79492109506948,
+              26.26396843193604
+            ],
+            [
+              -81.79492838906307,
+              26.263948808942303
+            ],
+            [
+              -81.79492346561742,
+              26.263947173691445
+            ],
+            [
+              -81.7949364124561,
+              26.26391168876885
+            ],
+            [
+              -81.7949393300535,
+              26.263912506395155
+            ],
+            [
+              -81.79495592388896,
+              26.26386704643272
+            ],
+            [
+              -81.79501839089411,
+              26.26388766728206
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "veranda",
+        "unit": "",
+        "room_label": "",
+        "room_ID": "2-31"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79515279734454,
+              26.264133797729716
+            ],
+            [
+              -81.79511155173562,
+              26.264120427265876
+            ],
+            [
+              -81.79515551797401,
+              26.264003115909713
+            ],
+            [
+              -81.79513381834305,
+              26.26396391081142
+            ],
+            [
+              -81.79500492470989,
+              26.263923431909426
+            ],
+            [
+              -81.79501839089411,
+              26.26388766728206
+            ],
+            [
+              -81.7951635507776,
+              26.263933557152285
+            ],
+            [
+              -81.7951708707658,
+              26.263946741025432
+            ],
+            [
+              -81.79518227567604,
+              26.263941657521805
+            ],
+            [
+              -81.7952044781344,
+              26.263982507098273
+            ],
+            [
+              -81.79519341064754,
+              26.263987409046482
+            ],
+            [
+              -81.79520090144655,
+              26.264001146603942
+            ],
+            [
+              -81.79515279734454,
+              26.264133797729716
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "stair",
+        "unit": "",
+        "room_label": "outdoor south",
+        "room_ID": "2-32"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79503890448206,
+              26.26389413582973
+            ],
+            [
+              -81.79502277564453,
+              26.263889052323787
+            ],
+            [
+              -81.79503360415907,
+              26.26385911546611
+            ],
+            [
+              -81.79503488060794,
+              26.263856744352314
+            ],
+            [
+              -81.79503624823174,
+              26.26385420971337
+            ],
+            [
+              -81.79503788938034,
+              26.26385167507437
+            ],
+            [
+              -81.79503962170382,
+              26.26384938572297
+            ],
+            [
+              -81.79504180990189,
+              26.263847259896632
+            ],
+            [
+              -81.7950445451495,
+              26.2638450523077
+            ],
+            [
+              -81.7950500156447,
+              26.26384186356805
+            ],
+            [
+              -81.79505521261515,
+              26.26383981950413
+            ],
+            [
+              -81.79506086546021,
+              26.26383875659088
+            ],
+            [
+              -81.7950659712557,
+              26.263838429540645
+            ],
+            [
+              -81.79507180645064,
+              26.263839328928782
+            ],
+            [
+              -81.7950786445696,
+              26.263840800654812
+            ],
+            [
+              -81.79511073814155,
+              26.263850612161217
+            ],
+            [
+              -81.79510508529648,
+              26.263865983519597
+            ],
+            [
+              -81.79506779475416,
+              26.263854536763564
+            ],
+            [
+              -81.79506287130849,
+              26.263854046188285
+            ],
+            [
+              -81.79505822138754,
+              26.26385494557631
+            ],
+            [
+              -81.795054300866,
+              26.263857153165045
+            ],
+            [
+              -81.79505101856884,
+              26.26386165010495
+            ],
+            [
+              -81.79503890448206,
+              26.26389413582973
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date_collected": "2024-08-09",
+        "source": "Pure Wireless, LLC",
+        "street_address": " 10495 Goodlette Frank Rd",
+        "postal_community": " Naples",
+        "zip": " 31408",
+        "site_type": " commercial",
+        "site_name": "BayColonyGolfClub",
+        "building": " multi level",
+        "floor_level": 1,
+        "floor_label": "level 2",
+        "floor_height": "14 ft",
+        "space_type": "stair",
+        "unit": "",
+        "room_label": "outdoor west",
+        "room_ID": "2-33"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.79516015221118,
+              26.264113529939376
+            ],
+            [
+              -81.79519315764138,
+              26.264123817832978
+            ],
+            [
+              -81.79519671346328,
+              26.264124471931854
+            ],
+            [
+              -81.7952013633842,
+              26.264124594575396
+            ],
+            [
+              -81.79520546625561,
+              26.26412349078354
+            ],
+            [
+              -81.7952084294405,
+              26.264121773773955
+            ],
+            [
+              -81.79521098233829,
+              26.264119566190153
+            ],
+            [
+              -81.79521253231191,
+              26.264117276843955
+            ],
+            [
+              -81.79521348964862,
+              26.264114823972978
+            ],
+            [
+              -81.79522470416379,
+              26.26408307972974
+            ],
+            [
+              -81.79524129799924,
+              26.264088148997764
+            ],
+            [
+              -81.79523053935868,
+              26.264117174641008
+            ],
+            [
+              -81.79522944525964,
+              26.264119872799036
+            ],
+            [
+              -81.79522825998565,
+              26.264122243907543
+            ],
+            [
+              -81.7952270747117,
+              26.264124451491295
+            ],
+            [
+              -81.79522552473806,
+              26.264126740837344
+            ],
+            [
+              -81.79522333653999,
+              26.264129111945714
+            ],
+            [
+              -81.79522114834188,
+              26.264131401291696
+            ],
+            [
+              -81.79521868661902,
+              26.264133527112904
+            ],
+            [
+              -81.79521576902161,
+              26.264135571171725
+            ],
+            [
+              -81.79521303377399,
+              26.26413736994345
+            ],
+            [
+              -81.79520874855277,
+              26.26413884166577
+            ],
+            [
+              -81.79520455450643,
+              26.2641397410516
+            ],
+            [
+              -81.79520054280994,
+              26.26414023162571
+            ],
+            [
+              -81.79519607523883,
+              26.264140313388054
+            ],
+            [
+              -81.79519160766775,
+              26.264139822813963
+            ],
+            [
+              -81.79518768714617,
+              26.26413892342811
+            ],
+            [
+              -81.79518486072367,
+              26.26413802404226
+            ],
+            [
+              -81.79515456810407,
+              26.264128914713428
+            ],
+            [
+              -81.79516015221118,
+              26.264113529939376
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
